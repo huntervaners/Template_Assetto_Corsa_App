@@ -38,5 +38,4 @@ So here's a template folder , and a script that already include :
 </br>
 
 ### If not :
-Please check : *\Documents\Assetto Corsa\logs\*
-__py_log.txt__
+Please check : \Documents\Assetto Corsa\logs\ __py_log.txt__
