@@ -11,6 +11,10 @@ So here's a template folder , and a script that already include :
     * is link to an OpenGL render function : __appGL()__
 
 ## Please don't forget to :
+
+* Place your app folder in :<br/>
+#### *\assettocorsa\apps\python*
+
 * Rename your folder :<br/>
 ![Folder](https://i.imgur.com/sMNVxlr.jpg)
 
