@@ -1,3 +1,11 @@
+"""
+Original sim_info.py by >>> Rombik <<<
+
+I didn't change much here , beside ctypes import.
+    -Hunter Vaners-
+"""
+
+
 import mmap
 import functools
 
