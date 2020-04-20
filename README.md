@@ -5,7 +5,7 @@
 
 I'm trying to make App developpent in Assetto Corsa easier.
 So here's a template folder , and a script that already include :
-* SimInfo (for 32 & 64 bits) 
+* SimInfo (for 32 & 64 bits) *by Rombik , modified by me*
 
 
 ![App 1](https://i.imgur.com/gbKNOsy.jpg)
