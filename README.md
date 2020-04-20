@@ -18,6 +18,9 @@ So here's a template folder , and a script that already include :
 * Rename your folder :<br/>
 ![Folder](https://i.imgur.com/sMNVxlr.jpg)
 
+* And Python script :<br/>
+![Script](https://i.imgur.com/jO1YyXB.jpg)
+
 * Enable your App in Assetto Corsa or Content manager :<br/>
 ##### In Assetto Corsa
 ![AC](https://i.imgur.com/AO7EWfW.jpg)<br/>
@@ -31,8 +34,7 @@ So here's a template folder , and a script that already include :
 
 
 
-* And Python script :<br/>
-![Script](https://i.imgur.com/jO1YyXB.jpg)
+
 
 ![App 1](https://i.imgur.com/gbKNOsy.jpg)
 
