@@ -29,13 +29,13 @@ So here's a template folder , and a script that already include :
 
 
 
-
-
-
-
-
-
+## You should have something like this :
 
 ![App 1](https://i.imgur.com/gbKNOsy.jpg)
 
 ![App 2](https://i.imgur.com/oIOAOvy.jpg)
+
+</br>
+
+### If not :
+#### Please check : *\Documents\Assetto Corsa\logs\* __py_log.txt__
