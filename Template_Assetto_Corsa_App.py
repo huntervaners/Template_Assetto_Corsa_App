@@ -1,3 +1,4 @@
+# AC App Template by Hunter Vaners
 # ------------------------------
 #
 # Don't forget to rename assettocorsa\apps\python\Template_Assetto_Corsa_App
