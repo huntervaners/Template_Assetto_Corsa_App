@@ -3,7 +3,7 @@
 
 
 
-I'm trying to make App developpent in Assetto Corsa easier.
+I'm trying to make App developpent in Assetto Corsa easier.<br/>
 So here's a template folder , and a script that already include :
 * __SimInfo__ (for 32 & 64 bits) *by Rombik , modified by me*
 * An __acMain()__ function
@@ -11,8 +11,11 @@ So here's a template folder , and a script that already include :
     * is link to an OpenGL render function : __appGL()__
 
 ## Please don't forget to :
-* Rename your folder : ![Folder](https://i.imgur.com/sMNVxlr.jpg)
-* And Python script : ![Script](https://i.imgur.com/jO1YyXB.jpg)
+* Rename your folder :<br/>
+![Folder](https://i.imgur.com/sMNVxlr.jpg)
+
+* And Python script :<br/>
+![Script](https://i.imgur.com/jO1YyXB.jpg)
 
 ![App 1](https://i.imgur.com/gbKNOsy.jpg)
 
